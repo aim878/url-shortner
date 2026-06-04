@@ -23,7 +23,7 @@ A fast, minimal, and beautiful URL shortener built with **Node.js** and **Expres
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/zohaibsafdar/url-shortener.git
+git clone https://github.com/aim878/url-shortener.git
 cd url-shortener
 ```
 
@@ -118,12 +118,12 @@ url-shortener/
 
 ## 👤 Author
 
-**Muhammad Zohaib Safdar**
-- LinkedIn: [linkedin.com/in/zohaib-developer](https://linkedin.com/in/zohaib-developer)
-- GitHub: [github.com/zohaibsafdar](https://github.com/zohaibsafdar)
+**Ahmad Hassan**
+- LinkedIn: [linkedin.com/in/aimhassan](https://linkedin.com/in/aimhassan)
+- GitHub: [github.com/aim878](https://github.com/aim878)
 
 ---
 
 ## 📄 License
 
-MIT © Muhammad Zohaib Safdar
+MIT © Ahmad Hassan
